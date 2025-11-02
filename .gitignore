@@ -1,0 +1,28 @@
+# Tmux
+.tmux-*
+
+# Config files (may contain personal settings)
+.3brains-config
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Private/proprietary files
+*.private
+.genius2-cli.sh*
+.moon-fact-temp.txt
